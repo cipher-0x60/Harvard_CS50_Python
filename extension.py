@@ -15,4 +15,4 @@ for ext, mime in media_types.items():
         print(mime)
         break
 else:
-    print("application/octet-stream")
+    print("application/octet-stream") 
